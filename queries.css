@@ -1,0 +1,9 @@
+@media (max-width: 26.5em) {
+  .html {
+    font-size: 30%;
+    box-sizing: border-box;
+  }
+  .between {
+    display: none;
+  }
+}
